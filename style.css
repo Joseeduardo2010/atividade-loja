@@ -151,24 +151,13 @@ padding: 35px; /*Espaçamento interno*/
     justify-content: center;
     flex-direction: row;
 }
-.estrutura-final{
-color: #ffffff;
-display: flex;
-justify-content: center;
-padding: 50px;
-font-size: 30px;
-}
-.imagem-final{
- 
-}
-.Botão-final{
-    width: 145px;
-height: 40px;
-border-radius: 30px;
-background-color: #333333;
-color: #ffffff;
-font-weight: bold;
-border: none;
-font-size: 19px;
-margin: 25px;
+.banner-xbox{
+    background-image: url(./assets/ultima.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 600px;
+    display: flex;
+    justify-content: end;
+    align-items: start;
 }
